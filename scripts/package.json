@@ -1,0 +1,17 @@
+{
+	"name": "@cyboticx/scripts",
+	"version": "1.7.3",
+	"description": "Setup scripts used in React and other applications",
+	"author": "Cyboticx <hello@cyboticx.com>",
+	"license": "MIT",
+	"main": "index.js",
+	"bin": {
+		"images": "./images.js",
+		"flags": "./flags.js",
+		"fonts": "./fonts.js"
+	},
+	"dependencies": {
+		"lodash.camelcase": "^4.3.0"
+	},
+	"gitHead": "a0043b4ce14436139df7fb9429cb54cb152dbbfb"
+}
